@@ -1,6 +1,6 @@
 # Copy Dance Game
 
-A web-based implementation of the "Copy Dance" mini-game from 1-2 Switch, where players take turns copying each other's poses using webcam pose tracking.
+A improved, web-based implementation of the "Copy Dance" mini-game from 1-2 Switch, where players take turns copying each other's poses using webcam pose tracking. Enhanced by tracking all limbs instead of just joycon position.
 
 ## Features
 
